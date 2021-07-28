@@ -1,0 +1,89 @@
+* {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+}
+
+.awal {
+	height: 530px;
+}
+
+.gambarKartu {
+	width: 543px;
+	height: 300px;
+}
+
+footer {
+	text-align: center;
+	padding: 3px;
+	background-color: #282d32;
+	color: white;
+}
+
+.putih {
+	color: white;
+	text-align: center;
+}
+
+.fa {
+	padding: 10px;
+	font-size: 20px;
+	width: 35px;
+	text-align: center;
+	text-decoration: none;
+}
+
+.fa:hover {
+	opacity: 1;
+}
+
+.fa-facebook {
+	background: #3b5998;
+	color: white;
+}
+
+.fa-twitter {
+	background: #55acee;
+	color: white;
+}
+
+.fa-whatsapp {
+	background: green;
+	color: white;
+}
+
+.fa-youtube {
+	background: red;
+	color: white;
+}
+
+.fa-linkedin {
+	background: blue;
+	color: white;
+}
+
+.fa-instagram {
+	background: orange;
+	color: white;
+}
+.fa-google {
+	background: linear-gradient(#f1c40f, #fff68f);
+	color: #0ff1ce;
+}
+
+.wlcm1 {
+	text-align: center;
+	font-family: "Bungee Shade";
+}
+
+.wlcm2 {
+	text-align: center;
+	font-family: Copperplate, Papyrus, fantasy;
+	font-size: 26px;
+}
+
+.isian {
+	font-family: "Cinzel Decorative";
+	font-size: 22px;
+	text-decoration: none;
+}
